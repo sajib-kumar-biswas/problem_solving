@@ -1,2 +1,2 @@
-1) Try to use the online approach first.
-2) if it does not work then try the Off-line approach.
+1) Try to use the online approach first.(GSS1-spoj)
+2) if it does not work then try the Off-line approach.(GSS2-spoj)
